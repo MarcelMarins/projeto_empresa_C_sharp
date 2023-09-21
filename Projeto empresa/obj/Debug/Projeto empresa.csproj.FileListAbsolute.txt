@@ -1,0 +1,153 @@
+C:\Users\TEMP.LAB09PC18.517\Documents\Visual Studio 2012\Projects\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe.config
+C:\Users\TEMP.LAB09PC18.517\Documents\Visual Studio 2012\Projects\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe
+C:\Users\TEMP.LAB09PC18.517\Documents\Visual Studio 2012\Projects\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.pdb
+C:\Users\TEMP.LAB09PC18.517\Documents\Visual Studio 2012\Projects\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.LAB09PC18.517\Documents\Visual Studio 2012\Projects\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Form1.resources
+C:\Users\TEMP.LAB09PC18.517\Documents\Visual Studio 2012\Projects\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Properties.Resources.resources
+C:\Users\TEMP.LAB09PC18.517\Documents\Visual Studio 2012\Projects\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csproj.GenerateResource.Cache
+C:\Users\TEMP.LAB09PC18.517\Documents\Visual Studio 2012\Projects\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.exe
+C:\Users\TEMP.LAB09PC18.517\Documents\Visual Studio 2012\Projects\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.pdb
+C:\Users\TEMP.LAB09PC17.481\Desktop\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe.config
+C:\Users\TEMP.LAB09PC17.481\Desktop\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.exe
+C:\Users\TEMP.LAB09PC17.481\Desktop\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.pdb
+D:\ARQUIVOS\ETEC\MODULO 3\DS\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe.config
+D:\ARQUIVOS\ETEC\MODULO 3\DS\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.exe
+D:\ARQUIVOS\ETEC\MODULO 3\DS\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.pdb
+D:\ARQUIVOS\ETEC\MODULO 3\DS\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csprojResolveAssemblyReference.cache
+D:\ARQUIVOS\ETEC\MODULO 3\DS\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Form1.resources
+D:\ARQUIVOS\ETEC\MODULO 3\DS\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Properties.Resources.resources
+D:\ARQUIVOS\ETEC\MODULO 3\DS\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csproj.GenerateResource.Cache
+D:\ARQUIVOS\ETEC\MODULO 3\DS\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe
+D:\ARQUIVOS\ETEC\MODULO 3\DS\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.pdb
+F:\Arquivos_ETEC\3° BIM\DSI 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe.config
+F:\Arquivos_ETEC\3° BIM\DSI 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.exe
+F:\Arquivos_ETEC\3° BIM\DSI 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.pdb
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe.config
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.exe
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.pdb
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.pdb
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Properties.Resources.resources
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csproj.GenerateResource.Cache
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe.config
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.exe
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.pdb
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.pdb
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csprojResolveAssemblyReference.cache
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Properties.Resources.resources
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csproj.GenerateResource.Cache
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csprojResolveAssemblyReference.cache
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Cliente.resources
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Produto.resources
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Menu.resources
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Cliente.resources
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Menu.resources
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Produto.resources
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.RelatorioCliente.resources
+D:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\itextsharp.dll
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\itextsharp.dll
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.ImprimirDataGridView.resources
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.RelatorioCliente.resources
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.RelatorioProduto.resources
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Login.resources
+E:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Splash.resources
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe.config
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.exe
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.pdb
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe.config
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.exe
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.pdb
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.pdb
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\itextsharp.dll
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csprojResolveAssemblyReference.cache
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Cliente.resources
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.ImprimirDataGridView.resources
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Login.resources
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Menu.resources
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Produto.resources
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Properties.Resources.resources
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.RelatorioCliente.resources
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.RelatorioProduto.resources
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Splash.resources
+M:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csproj.GenerateResource.Cache
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.exe
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\Projeto empresa.pdb
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\bin\Debug\itextsharp.dll
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csprojResolveAssemblyReference.cache
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Cliente.resources
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.ImprimirDataGridView.resources
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Login.resources
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Menu.resources
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Produto.resources
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Properties.Resources.resources
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.RelatorioCliente.resources
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.RelatorioProduto.resources
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Splash.resources
+F:\TO C SONO\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csproj.GenerateResource.Cache
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csproj.AssemblyReference.cache
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csproj.SuggestedBindingRedirects.cache
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Cliente.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.ImprimirDataGridView.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Login.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Menu.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Produto.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Properties.Resources.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.RelatorioCliente.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.RelatorioProduto.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto_empresa.Splash.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csproj.GenerateResource.cache
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.csproj.CoreCompileInputs.cache
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.exe
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\ETEC\3° MODULO\DESENVOLVIMETO DE SISTEMAS 2\Projeto empresa\Projeto empresa\obj\Debug\Projeto empresa.pdb
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto empresa.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto empresa.csproj.SuggestedBindingRedirects.cache
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto_empresa.Cliente.resources
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto_empresa.ImprimirDataGridView.resources
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto_empresa.Login.resources
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto_empresa.Menu.resources
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto_empresa.Produto.resources
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto_empresa.Properties.Resources.resources
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto_empresa.RelatorioCliente.resources
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto_empresa.RelatorioProduto.resources
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto_empresa.Splash.resources
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto empresa.csproj.GenerateResource.cache
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto empresa.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto empresa.exe
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto empresa.pdb
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\Projeto empresa.exe.config
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\Projeto empresa.exe
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\Projeto empresa.pdb
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\Google.Protobuf.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\MySql.Data.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Buffers.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.IO.Pipelines.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Memory.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\ZstdSharp.dll
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\Google.Protobuf.pdb
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\Google.Protobuf.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\MySql.Data.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Buffers.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.IO.Pipelines.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Memory.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marce\Desktop\RepoGIT\projeto-empresa-C-sharp\Projeto empresa\obj\Debug\Projeto empresa.csproj.CopyComplete
